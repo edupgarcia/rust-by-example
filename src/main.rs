@@ -1,6 +1,8 @@
-mod ferris;
+// mod ferris;
+mod formatted_print;
 
 fn main() {
     // println!("Hello, world!");
-    ferris::main();
+    // ferris::main();
+    formatted_print::main();
 }
